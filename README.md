@@ -1,8 +1,5 @@
--😎 Hi, I’m @DR-1300
-
--😎 I’m interested in Coding
-
--😎 I’m currently learning Javascript and Python
+Hi, Im someone o.o
+I’m currently learning Javascript, Python and GO
 
 <!---
 DR-1300/DR-1300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
