@@ -13,7 +13,7 @@
 ### • Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,nodejs,react,mongodb,firebase,javascript,unity,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,nodejs,react,mongodb,firebase,javascript,unity" />
 </p>
 
 ---
