@@ -3,12 +3,6 @@
 # ☁️ ✨ Hi, I'm Dhruvi ✨ ☁️
 ### 🎓 Aspiring SDE
 
----
-
-  <img src="https://komarev.com/ghpvc/?username=DR-1300&label=Profile%20views&color=ff69b4&style=flat" alt="DR-1300" />
-
----
-
 </div>
 
 ### • About Me
