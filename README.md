@@ -8,7 +8,7 @@
 ### • About Me
 - → Recovering vibe coder to dev
 - → **Current Focus:** Getting into college :p
-- → **Currently Binge-ing:** [Hell's Kitchen](https://www.imdb.com/title/tt0437005/), [Kitchen Nightmares](https://www.imdb.com/title/tt1105828/), & [Modern Family](https://www.imdb.com/title/tt1442437/).
+- → **Currently Binge-ing:** [Hell's Kitchen](https://www.imdb.com/title/tt0437005/), [Gilmore Girls](https://www.imdb.com/title/tt0238784/), & [Modern Family](https://www.imdb.com/title/tt1442437/).
 ---
 
 ### • Tech Stack & Tools
